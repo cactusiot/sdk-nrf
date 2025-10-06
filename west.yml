@@ -68,7 +68,7 @@ manifest:
     - name: zephyr
       repo-path: zephyr-nrf
       remote: cactusiot
-      revision: a572797ffcc42b7b6e899acf19e3cfcb1a38bbb4
+      revision: 5da99b27690d0572b5e85eecdf7ee6800990c994
       import:
         # In addition to the zephyr repository itself, NCS also
         # imports the contents of zephyr/west.yml at the above
